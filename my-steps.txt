@@ -1,0 +1,101 @@
+### Step 2A
+
+/Users/bethanysketchley
+
+### Step 2B
+Bethanys-Macbook-Pro:~ bethanysketchley$ cd Desktop
+
+
+### Step 2C
+bethanysketchley$ cd unit-1-git-practice-copy
+
+### Step 2D
+/Users/bethanysketchley/cd 
+
+### Step 2E
+unit-1-git-practice-copy bethanysketchley$ ls
+
+### Step 2F
+my-steps.txt
+
+### Step 2G
+cd ~
+
+### Step 2H
+
+bethanysketchley$ cd /Users/bethanysketchley
+
+### Step 2I
+
+bethanysketchley$ ls 
+
+
+### Step 2K
+
+bethanysketchley$ cd Desktop/unit-1-git-practice-copy
+
+### Step 3A
+bethanysketchley$ mkdir folder
+bethanysketchley$ mkdir -p veggies/meats/desserts
+
+
+### Step 3B
+bethanysketchley$ mv desserts sweets
+
+
+###Step 3C
+bethanysketchley$ mkdir -p protein
+
+### Step 3D
+bethanysketchley$ mv meats protein
+
+
+### Step 3E
+bethanysketchley$ cd veggies
+bethanysketchley$ touch carrot.txt pea.txt
+
+
+### Step 3F
+bethanysketchley$ cd .. unit-1-git-practice-copy
+bethantsketchley$ cd sweets
+
+bethanysketchley$ touch cookie.txt
+
+### Step 3G
+bethanysketchley$ mv cookie.txt donut.txt
+
+### Step 3H
+bethanysketchley$ cd .. unit-1-git-practice-copy
+bethanysketchley$ touch thing.txt
+
+### Step 3I
+bethanysketchley$ cp thing.txt tofu.txt
+
+### Step 3J
+ bethanysketchley$ mv tofu.txt proteins 
+
+### Step 3K
+proteins bethanysketchley$ mv crab.txt meats
+
+### Step 3L
+proteins bethanysketchley$ cd .. unit-1-git-practice-copy
+unit-1-git-practice-copy bethanysketchley$ rm thing.txt
+
+### Step 3M
+unit-1-git-practice-copy bethanysketchley$ cp -r veggies plants
+
+### Step 3N
+unit-1-git-practice-copy bethanysketchley$ mkdir drinks 
+unit-1-git-practice-copy bethanysketchley$ rm -r drinks
+
+### Step 4
+
+
+### Step 5
+
+
+### Step 6
+
+
+### Step 7
+*** DO NOT RECORD STEP 7 ***
