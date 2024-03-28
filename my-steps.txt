@@ -89,7 +89,22 @@ unit-1-git-practice-copy bethanysketchley$ mkdir drinks
 unit-1-git-practice-copy bethanysketchley$ rm -r drinks
 
 ### Step 4
-
+Bethanys-Macbook-Pro:unit-1-git-practice-copy bethanysketchley$ git commit -m 'first commit'
+[main (root-commit) fb55a52] first commit
+ 14 files changed, 101 insertions(+)
+ create mode 100644 .DS_Store
+ create mode 100644 my-steps.txt
+ create mode 100644 plants/.DS_Store
+ create mode 100644 plants/carrot.txt
+ create mode 100644 plants/pea.txt
+ create mode 100644 proteins/.DS_Store
+ create mode 100644 proteins/meats/.DS_Store
+ create mode 100644 proteins/meats/crab.txt
+ create mode 100644 proteins/tofu.txt
+ create mode 100644 sweets/.DS_Store
+ create mode 100644 sweets/donut.txt
+ create mode 100644 veggies/.DS_Store
+ create mode 100644 veggies/carrot.txt
 
 ### Step 5
 
