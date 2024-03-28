@@ -123,7 +123,22 @@ To https://github.com/bethanysketchley/unit-1-git-practice-copy?tab=readme-ov-fi
 Branch 'main' set up to track remote branch 'main' from 'origin'. 
 
 ### Step 6
-
+Bethanys-Macbook-Pro:unit-1-git-practice-copy bethanysketchley$ git add .
+Bethanys-Macbook-Pro:unit-1-git-practice-copy bethanysketchley$ git commit -m 'starting a menu'
+[main 726214f] starting a menu
+ 2 files changed, 14 insertions(+), 1 deletion(-)
+ create mode 100644 menu.txt
+Bethanys-Macbook-Pro:unit-1-git-practice-copy bethanysketchley$ git push
+Enumerating objects: 6, done.
+Counting objects: 100% (6/6), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (4/4), 701 bytes | 701.00 KiB/s, done.
+Total 4 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/bethanysketchley/unit-1-git-practice-copy.git
+   0538f3a..726214f  main -> main
+Bethanys-Macbook-Pro:unit-1-git-practice-copy bethanysketchley$ 
 
 ### Step 7
 *** DO NOT RECORD STEP 7 ***
