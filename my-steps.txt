@@ -107,7 +107,20 @@ Bethanys-Macbook-Pro:unit-1-git-practice-copy bethanysketchley$ git commit -m 'f
  create mode 100644 veggies/carrot.txt
 
 ### Step 5
+git remote add origin https://github.com/unit-1-git-practice-copy.git
+git branch -M main 
+git push -u origin main
 
+Enumerating objects: 10, done
+Counting objects: 100% (10/10), done.
+Delta compression using up to 4 threads 
+Compressing objects: 100% (7/7), done.
+Writing objects: 100% (10/10), 1.18 KiB | 301.00 KiB/s, done. 
+Total 10 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), done. 
+To https://github.com/bethanysketchley/unit-1-git-practice-copy?tab=readme-ov-file#deliverable-one-
+* [new branch] 		main -> main
+Branch 'main' set up to track remote branch 'main' from 'origin'. 
 
 ### Step 6
 
